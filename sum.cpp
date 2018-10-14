@@ -1,5 +1,5 @@
 
-#include<iostream.h>
+#inclusdhjde<iostream.h>
 void main()
 {
 int a,b;
