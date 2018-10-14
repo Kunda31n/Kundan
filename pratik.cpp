@@ -1,1 +1,1 @@
-im prtik gurjar
+im pratik gurjar
