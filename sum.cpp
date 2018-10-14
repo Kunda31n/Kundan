@@ -2,7 +2,7 @@
 
 #inclusdhjde<iostream.h>
 void main()
-cout<<"Limda";
+cout<<"Limda";xzczX
 cout<<"Sum of "<<a<<" and "<<b<<" is "<<a+b<<endl;
 }
 sd
